@@ -11,7 +11,7 @@
               "id": "CVE-2018-19362",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2018-19362",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2018-19362"
               },
               "fullDescription": {
                 "text": "Upgrade to version 2.9.8"
@@ -25,7 +25,7 @@
               "id": "CVE-2020-36189",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-36189",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-36189"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -39,7 +39,7 @@
               "id": "CVE-2018-12023",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2018-12023",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2018-12023"
               },
               "fullDescription": {
                 "text": "Upgrade to version 2.7.9.4, 2.8.11.2, 2.9.6"
@@ -53,7 +53,7 @@
               "id": "CVE-2019-16335",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-16335",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-16335"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.6.7.3,2.8.11.5,2.9.10"
@@ -67,7 +67,7 @@
               "id": "CVE-2022-42003",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2022-42003",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2022-42003"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.12.7.1,2.13.4.2"
@@ -81,7 +81,7 @@
               "id": "CVE-2020-14060",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-14060",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-14060"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.10.0"
@@ -95,7 +95,7 @@
               "id": "CVE-2020-36187",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-36187",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-36187"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -109,7 +109,7 @@
               "id": "CVE-2020-24750",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-24750",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-24750"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.6"
@@ -123,7 +123,7 @@
               "id": "CVE-2020-36183",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-36183",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-36183"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -137,7 +137,7 @@
               "id": "CVE-2020-11111",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-11111",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-11111"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.4,2.10.0"
@@ -151,7 +151,7 @@
               "id": "CVE-2020-14195",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-14195",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-14195"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.5"
@@ -165,7 +165,7 @@
               "id": "CVE-2021-20190",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2021-20190",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2021-20190"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind-2.9.10.7"
@@ -179,7 +179,7 @@
               "id": "CVE-2019-17267",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-17267",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-17267"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.8.11.5,2.9.10"
@@ -193,7 +193,7 @@
               "id": "CVE-2018-14720",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2018-14720",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2018-14720"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.7.9.5,2.8.11.3,2.9.7"
@@ -207,7 +207,7 @@
               "id": "CVE-2019-12814",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-12814",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-12814"
               },
               "fullDescription": {
                 "text": "Upgrade to version 2.7.9.6, 2.8.11.4, 2.9.9.1, 2.10.0"
@@ -221,7 +221,7 @@
               "id": "CVE-2020-9547",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-9547",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-9547"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.7.9.7,2.8.11.6,2.9.10.4"
@@ -235,7 +235,7 @@
               "id": "CVE-2020-10673",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-10673",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-10673"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.4"
@@ -249,7 +249,7 @@
               "id": "CVE-2018-12022",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2018-12022",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2018-12022"
               },
               "fullDescription": {
                 "text": "Upgrade to version 2.7.9.4, 2.8.11.2, 2.9.6"
@@ -263,7 +263,7 @@
               "id": "CVE-2019-20330",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-20330",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-20330"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.7.9.7,2.8.11.5,2.9.10.2"
@@ -277,7 +277,7 @@
               "id": "CVE-2020-14061",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-14061",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-14061"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.10.0"
@@ -291,7 +291,7 @@
               "id": "CVE-2020-11620",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-11620",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-11620"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.4"
@@ -305,7 +305,7 @@
               "id": "CVE-2020-36184",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-36184",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-36184"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -319,7 +319,7 @@
               "id": "CVE-2019-10202",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-10202",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-10202"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.0.0"
@@ -333,7 +333,7 @@
               "id": "CVE-2020-36180",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-36180",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-36180"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -347,7 +347,7 @@
               "id": "CVE-2018-14721",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2018-14721",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2018-14721"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.6.7.3,2.7.9.5,2.8.11.3,2.9.7"
@@ -361,7 +361,7 @@
               "id": "CVE-2018-19360",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2018-19360",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2018-19360"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.7.9.5,2.8.11.3,2.9.8"
@@ -375,7 +375,7 @@
               "id": "CVE-2020-36518",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-36518",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-36518"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.12.6.1,2.13.2.1"
@@ -389,7 +389,7 @@
               "id": "CVE-2020-10672",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-10672",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-10672"
               },
               "fullDescription": {
                 "text": "Upgrade to version jackson-databind-2.9.10.4"
@@ -403,7 +403,7 @@
               "id": "CVE-2020-36179",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-36179",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-36179"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -417,7 +417,7 @@
               "id": "CVE-2019-14893",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-14893",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-14893"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.10.0"
@@ -431,7 +431,7 @@
               "id": "CVE-2020-9546",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-9546",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-9546"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.10.3"
@@ -445,7 +445,7 @@
               "id": "CVE-2020-9548",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-9548",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-9548"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.7.9.7,2.8.11.6,2.9.10.4"
@@ -459,7 +459,7 @@
               "id": "CVE-2020-10969",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-10969",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-10969"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.8.11.6;com.fasterxml.jackson.core:jackson-databind:2.7.9.7"
@@ -473,7 +473,7 @@
               "id": "CVE-2020-36185",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-36185",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-36185"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -487,7 +487,7 @@
               "id": "CVE-2020-14062",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-14062",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-14062"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.10.0"
@@ -501,7 +501,7 @@
               "id": "CVE-2020-36181",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-36181",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-36181"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -515,7 +515,7 @@
               "id": "CVE-2020-11619",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-11619",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-11619"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.4"
@@ -529,7 +529,7 @@
               "id": "CVE-2020-35491",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-35491",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-35491"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -543,7 +543,7 @@
               "id": "CVE-2019-14379",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-14379",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-14379"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.7.9.6,2.8.11.4,2.9.9.2"
@@ -557,7 +557,7 @@
               "id": "CVE-2019-16943",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-16943",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-16943"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.6.7.3,2.8.11.5,2.9.10.1"
@@ -571,7 +571,7 @@
               "id": "CVE-2019-17531",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-17531",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-17531"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.6.7.3,2.8.11.5,2.9.10.1"
@@ -585,7 +585,7 @@
               "id": "CVE-2020-11113",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-11113",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-11113"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.4;2.10.0"
@@ -599,7 +599,7 @@
               "id": "CVE-2019-12086",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-12086",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-12086"
               },
               "fullDescription": {
                 "text": "Upgrade to version 2.9.9"
@@ -613,7 +613,7 @@
               "id": "CVE-2018-19361",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2018-19361",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2018-19361"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.7.9.5,2.8.11.3,2.9.8"
@@ -627,7 +627,7 @@
               "id": "CVE-2020-24616",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-24616",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-24616"
               },
               "fullDescription": {
                 "text": "Upgrade to version 2.9.10.6"
@@ -641,7 +641,7 @@
               "id": "CVE-2020-25649",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-25649",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-25649"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.6.7.4,2.9.10.7,2.10.5.1,2.11.0.rc1"
@@ -655,7 +655,7 @@
               "id": "CVE-2018-14718",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2018-14718",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2018-14718"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.7.9.5,2.8.11.3,2.9.7"
@@ -669,7 +669,7 @@
               "id": "CVE-2018-11307",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2018-11307",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2018-11307"
               },
               "fullDescription": {
                 "text": "Upgrade to version jackson-databind-2.9.6"
@@ -683,7 +683,7 @@
               "id": "CVE-2020-36188",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-36188",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-36188"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -697,7 +697,7 @@
               "id": "CVE-2019-14892",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-14892",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-14892"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.6.7.3,2.8.11.5,2.9.10"
@@ -711,7 +711,7 @@
               "id": "CVE-2020-36186",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-36186",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-36186"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -725,7 +725,7 @@
               "id": "CVE-2022-42004",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2022-42004",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2022-42004"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.13.4"
@@ -739,7 +739,7 @@
               "id": "CVE-2020-10968",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-10968",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-10968"
               },
               "fullDescription": {
                 "text": "Upgrade to version jackson-databind-2.9.10.4"
@@ -753,7 +753,7 @@
               "id": "CVE-2020-8840",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-8840",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-8840"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.3"
@@ -767,7 +767,7 @@
               "id": "CVE-2019-12384",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-12384",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-12384"
               },
               "fullDescription": {
                 "text": "Upgrade to version 2.9.9.1"
@@ -781,7 +781,7 @@
               "id": "CVE-2020-36182",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-36182",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-36182"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -795,7 +795,7 @@
               "id": "CVE-2020-10650",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-10650",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-10650"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.4"
@@ -809,7 +809,7 @@
               "id": "CVE-2020-35728",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-35728",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-35728"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -823,7 +823,7 @@
               "id": "CVE-2020-35490",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-35490",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-35490"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.8"
@@ -837,7 +837,7 @@
               "id": "CVE-2019-14540",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-14540",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-14540"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.6.7.3,2.8.11.5,2.9.10"
@@ -851,7 +851,7 @@
               "id": "CVE-2019-16942",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-16942",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-16942"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.6.7.3,2.8.11.5,2.9.10.1"
@@ -865,7 +865,7 @@
               "id": "CVE-2020-11112",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2020-11112",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2020-11112"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.9.10.4,2.10.0"
@@ -879,7 +879,7 @@
               "id": "CVE-2019-14439",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2019-14439",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2019-14439"
               },
               "fullDescription": {
                 "text": "Upgrade to version 2.9.9.2"
@@ -893,7 +893,7 @@
               "id": "CVE-2018-14719",
               "name": "jackson-databind-2.9.5.jar is affected by CVE-2018-14719",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-databind-2.9.5.jar is affected by CVE-2018-14719"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-databind:2.7.9.5,2.8.11.3,2.9.7"
@@ -907,7 +907,7 @@
               "id": "WS-2022-0468",
               "name": "jackson-core-2.9.5.jar is affected by WS-2022-0468",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "jackson-core-2.9.5.jar is affected by WS-2022-0468"
               },
               "fullDescription": {
                 "text": "Upgrade to version com.fasterxml.jackson.core:jackson-core:2.15.0"
@@ -921,7 +921,7 @@
               "id": "CVE-2015-7501",
               "name": "commons-collections-3.2.1.jar is affected by CVE-2015-7501",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "commons-collections-3.2.1.jar is affected by CVE-2015-7501"
               },
               "fullDescription": {
                 "text": "Upgrade to version commons-collections:commons-collections:3.2.2;org.apache.commons:commons-collections4:4.1"
@@ -935,7 +935,7 @@
               "id": "CVE-2015-4852",
               "name": "commons-collections-3.2.1.jar is affected by CVE-2015-4852",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "commons-collections-3.2.1.jar is affected by CVE-2015-4852"
               },
               "fullDescription": {
                 "text": "Upgrade to version commons-collections:commons-collections:3.2.2"
@@ -949,7 +949,7 @@
               "id": "CVE-2019-13116",
               "name": "commons-collections-3.2.1.jar is affected by CVE-2019-13116",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "commons-collections-3.2.1.jar is affected by CVE-2019-13116"
               },
               "fullDescription": {
                 "text": "Upgrade to version commons-collections:commons-collections:3.2.2"
@@ -963,7 +963,7 @@
               "id": "CVE-2015-6420",
               "name": "commons-collections-3.2.1.jar is affected by CVE-2015-6420",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "commons-collections-3.2.1.jar is affected by CVE-2015-6420"
               },
               "fullDescription": {
                 "text": "Upgrade to version commons-collections:commons-collections3.2.2,org.apache.commons:commons-collections4:4.1"
@@ -977,7 +977,7 @@
               "id": "CVE-2017-15708",
               "name": "commons-collections-3.2.1.jar is affected by CVE-2017-15708",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "commons-collections-3.2.1.jar is affected by CVE-2017-15708"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.synapse:Apache-Synapse:3.0.1;commons-collections:commons-collections:3.2.2"
@@ -991,7 +991,7 @@
               "id": "CVE-2017-9801",
               "name": "commons-email-1.1.jar is affected by CVE-2017-9801",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "commons-email-1.1.jar is affected by CVE-2017-9801"
               },
               "fullDescription": {
                 "text": "Upgrade to version 1.5"
@@ -1005,7 +1005,7 @@
               "id": "CVE-2018-1294",
               "name": "commons-email-1.1.jar is affected by CVE-2018-1294",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "commons-email-1.1.jar is affected by CVE-2018-1294"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.commons:commons-email:1.5"
@@ -1019,7 +1019,7 @@
               "id": "CVE-2023-41835",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2023-41835",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2023-41835"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.5.32,6.1.2.2,6.3.0.1"
@@ -1033,7 +1033,7 @@
               "id": "CVE-2024-53677",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2024-53677",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2024-53677"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:6.4.0"
@@ -1047,7 +1047,7 @@
               "id": "CVE-2016-4003",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2016-4003",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2016-4003"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.28"
@@ -1061,7 +1061,7 @@
               "id": "CVE-2019-0230",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2019-0230",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2019-0230"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.5.22"
@@ -1075,7 +1075,7 @@
               "id": "CVE-2016-4436",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2016-4436",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2016-4436"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.29,org.apache.struts:struts2-core:2.5.1.3"
@@ -1089,7 +1089,7 @@
               "id": "CVE-2021-31805",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2021-31805",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2021-31805"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.5.30"
@@ -1103,7 +1103,7 @@
               "id": "CVE-2016-4430",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2016-4430",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2016-4430"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.29"
@@ -1117,7 +1117,7 @@
               "id": "CVE-2015-2992",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2015-2992",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2015-2992"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.20.1"
@@ -1131,7 +1131,7 @@
               "id": "CVE-2015-5209",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2015-5209",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2015-5209"
               },
               "fullDescription": {
                 "text": "Upgrade to version 2.3.24.1"
@@ -1145,7 +1145,7 @@
               "id": "CVE-2015-5169",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2015-5169",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2015-5169"
               },
               "fullDescription": {
                 "text": "Upgrade to version 2.3.20"
@@ -1159,7 +1159,7 @@
               "id": "CVE-2016-3093",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2016-3093",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2016-3093"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.28,ognl:ognl:3.0.12"
@@ -1173,7 +1173,7 @@
               "id": "CVE-2016-3082",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2016-3082",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2016-3082"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.20.3,org.apache.struts:struts2-core:2.3.24.3,org.apache.struts:struts2-core: 2.3.28.1"
@@ -1187,7 +1187,7 @@
               "id": "CVE-2023-50164",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2023-50164",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2023-50164"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.5.33,6.3.0.2"
@@ -1201,7 +1201,7 @@
               "id": "CVE-2016-3087",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2016-3087",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2016-3087"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.20.3,org.apache.struts:struts2-core:2.3.24.3,org.apache.struts:struts2-core: 2.3.28.1"
@@ -1215,7 +1215,7 @@
               "id": "CVE-2023-34149",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2023-34149",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2023-34149"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.5.31,6.1.2.1"
@@ -1229,7 +1229,7 @@
               "id": "CVE-2018-11776",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2018-11776",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2018-11776"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core - 2.3.35,2.5.17;org.apache.struts:struts2-rest-plugin - 2.3.34,2.5.17"
@@ -1243,7 +1243,7 @@
               "id": "CVE-2017-9787",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2017-9787",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2017-9787"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.33,org.apache.struts:struts2-core:2.5.12"
@@ -1257,7 +1257,7 @@
               "id": "CVE-2016-6795",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2016-6795",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2016-6795"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.31,org.apache.struts:struts2-core:2.5.5"
@@ -1271,7 +1271,7 @@
               "id": "CVE-2016-4465",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2016-4465",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2016-4465"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.29, \torg.apache.struts.xwork:xwork-core:2.3.29"
@@ -1285,7 +1285,7 @@
               "id": "CVE-2019-0233",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2019-0233",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2019-0233"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.5.22"
@@ -1299,7 +1299,7 @@
               "id": "CVE-2017-12611",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2017-12611",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2017-12611"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.34;org.apache.struts:struts2-core:2.5.12"
@@ -1313,7 +1313,7 @@
               "id": "CVE-2016-4433",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2016-4433",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2016-4433"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.29,\torg.apache.struts.xwork:xwork-core:2.3.29"
@@ -1327,7 +1327,7 @@
               "id": "CVE-2016-4431",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2016-4431",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2016-4431"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.29"
@@ -1341,7 +1341,7 @@
               "id": "CVE-2016-3081",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2016-3081",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2016-3081"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.20.3,org.apache.struts:struts2-core:2.3.24.3,org.apache.struts:struts2-core: 2.3.28.1"
@@ -1355,7 +1355,7 @@
               "id": "CVE-2020-17530",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2020-17530",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2020-17530"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.5.26"
@@ -1369,7 +1369,7 @@
               "id": "CVE-2017-5638",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2017-5638",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2017-5638"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.32,org.apache.struts:struts2-core:2.5.10.1"
@@ -1383,7 +1383,7 @@
               "id": "CVE-2017-9804",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2017-9804",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2017-9804"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.34,org.apache.struts:struts2-core:2.5.13"
@@ -1397,7 +1397,7 @@
               "id": "CVE-2023-34396",
               "name": "struts2-core-2.3.20.jar is affected by CVE-2023-34396",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "struts2-core-2.3.20.jar is affected by CVE-2023-34396"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.5.31,6.1.2.1"
@@ -1411,7 +1411,7 @@
               "id": "CVE-2016-3092",
               "name": "commons-fileupload-1.3.1.jar is affected by CVE-2016-3092",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "commons-fileupload-1.3.1.jar is affected by CVE-2016-3092"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.tomcat.embed:tomcat-embed-core:9.0.0.M8,8.5.3,8.0.36,7.0.70,org.apache.tomcat:tomcat-coyote:9.0.0.M8,8.5.3,8.0.36,7.0.70,commons-fileupload:commons-fileupload:1.3.2"
@@ -1425,7 +1425,7 @@
               "id": "CVE-2016-1000031",
               "name": "commons-fileupload-1.3.1.jar is affected by CVE-2016-1000031",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "commons-fileupload-1.3.1.jar is affected by CVE-2016-1000031"
               },
               "fullDescription": {
                 "text": "Upgrade to version 1.3.3"
@@ -1439,7 +1439,7 @@
               "id": "WS-2014-0034",
               "name": "commons-fileupload-1.3.1.jar is affected by WS-2014-0034",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "commons-fileupload-1.3.1.jar is affected by WS-2014-0034"
               },
               "fullDescription": {
                 "text": "Upgrade to version commons-fileupload:commons-fileupload:1.4"
@@ -1453,7 +1453,7 @@
               "id": "CVE-2023-24998",
               "name": "commons-fileupload-1.3.1.jar is affected by CVE-2023-24998",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "commons-fileupload-1.3.1.jar is affected by CVE-2023-24998"
               },
               "fullDescription": {
                 "text": "Upgrade to version commons-fileupload:commons-fileupload:1.5;org.apache.tomcat:tomcat-coyote:8.5.85,9.0.71,10.1.5,11.0.0-M3;org.apache.tomcat.embed:tomcat-embed-core:8.5.85,9.0.71,10.1.5,11.0.0-M3;org.apache.tomcat:tomcat-util:8.5.85,9.0.71,10.1.5,11.0.0-M3;org.apache.tomcat:tomcat-catalina:8.5.85,9.0.71,10.1.5,11.0.0-M3"
@@ -1467,7 +1467,7 @@
               "id": "CVE-2024-47554",
               "name": "commons-io-2.2.jar is affected by CVE-2024-47554",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "commons-io-2.2.jar is affected by CVE-2024-47554"
               },
               "fullDescription": {
                 "text": "Upgrade to version commons-io:commons-io:2.14.0"
@@ -1481,7 +1481,7 @@
               "id": "CVE-2021-29425",
               "name": "commons-io-2.2.jar is affected by CVE-2021-29425",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "commons-io-2.2.jar is affected by CVE-2021-29425"
               },
               "fullDescription": {
                 "text": "Upgrade to version commons-io:commons-io:2.7"
@@ -1495,7 +1495,7 @@
               "id": "CVE-2016-0785",
               "name": "xwork-core-2.3.20.jar is affected by CVE-2016-0785",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "xwork-core-2.3.20.jar is affected by CVE-2016-0785"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts.xwork:xwork-core:2.3.28"
@@ -1509,7 +1509,7 @@
               "id": "CVE-2016-4461",
               "name": "xwork-core-2.3.20.jar is affected by CVE-2016-4461",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "xwork-core-2.3.20.jar is affected by CVE-2016-4461"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts:struts2-core:2.3.29"
@@ -1523,7 +1523,7 @@
               "id": "CVE-2016-2162",
               "name": "xwork-core-2.3.20.jar is affected by CVE-2016-2162",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "xwork-core-2.3.20.jar is affected by CVE-2016-2162"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts.xwork:xwork-core:2.3.25"
@@ -1537,7 +1537,7 @@
               "id": "CVE-2015-1831",
               "name": "xwork-core-2.3.20.jar is affected by CVE-2015-1831",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "xwork-core-2.3.20.jar is affected by CVE-2015-1831"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.apache.struts.xwork:xwork-core - 2.3.20.1"
@@ -1551,7 +1551,7 @@
               "id": "CVE-2021-22096",
               "name": "spring-core-4.3.13.RELEASE.jar is affected by CVE-2021-22096",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "spring-core-4.3.13.RELEASE.jar is affected by CVE-2021-22096"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.springframework:spring-core:5.2.18.RELEASE,5.3.12;org.springframework:spring-web:5.2.18.RELEASE,5.3.12;org.springframework:spring-webmvc:5.2.18.RELEASE,5.3.12;org.springframework:spring-webflux:5.2.18.RELEASE,5.3.12"
@@ -1565,7 +1565,7 @@
               "id": "CVE-2021-22060",
               "name": "spring-core-4.3.13.RELEASE.jar is affected by CVE-2021-22060",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "spring-core-4.3.13.RELEASE.jar is affected by CVE-2021-22060"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.springframework:spring-core:5.2.19, 5.3.14;org.springframework:spring-web:5.2.19, 5.3.14"
@@ -1579,7 +1579,7 @@
               "id": "CVE-2018-1272",
               "name": "spring-core-4.3.13.RELEASE.jar is affected by CVE-2018-1272",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "spring-core-4.3.13.RELEASE.jar is affected by CVE-2018-1272"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.springframework:spring-core:4.3.15.RELEASE,5.0.5.RELEASE;org.springframework:spring-web:4.3.15.RELEASE,5.0.5.RELEASE"
@@ -1593,7 +1593,7 @@
               "id": "CVE-2018-1199",
               "name": "spring-core-4.3.13.RELEASE.jar is affected by CVE-2018-1199",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "spring-core-4.3.13.RELEASE.jar is affected by CVE-2018-1199"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.springframework.security:spring-security-web:4.1.5.RELEASE,4.2.4.RELEASE,5.0.1.RELEASE;org.springframework.security:spring-security-config:4.1.5.RELEASE,4.2.4.RELEASE,5.0.1.RELEASE;org.springframework:spring-core:4.3.14.RELEASE,5.0.3.RELEASE"
@@ -1607,7 +1607,7 @@
               "id": "CVE-2022-22970",
               "name": "spring-core-4.3.13.RELEASE.jar is affected by CVE-2022-22970",
               "shortDescription": {
-                "text": "Upgrade to version"
+                "text": "spring-core-4.3.13.RELEASE.jar is affected by CVE-2022-22970"
               },
               "fullDescription": {
                 "text": "Upgrade to version org.springframework:spring-beans:5.2.22,5.3.20;org.springframework:spring-core:5.2.22,5.3.20"
